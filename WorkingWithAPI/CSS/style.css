@@ -1,0 +1,12 @@
+.btn-primary, .btn-primary:hover, .btn-primary:active, .btn-primary:visited {
+    background-color: #FB6376 !important;
+}
+
+.navbar {
+    color: #FFF9EC !important;
+    background-color: #FB6376 !important;
+}
+
+.alert .alert-success{
+    color: #44BBA4 !important;
+}
